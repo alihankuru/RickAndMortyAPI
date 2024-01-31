@@ -5,6 +5,9 @@
 ## Example Response
 ![Rick and Morty](https://github.com/alihankuru/RickAndMortyAPI/blob/master/API2.png)
 
+## Database Diagram
+![Rick and Morty](https://github.com/alihankuru/RickAndMortyAPI/blob/master/DATABASE.png)
+
 ## Overview
 
 RickAndMortyAPI is a interacting with the Rick and Morty API. It allows you to retrieve information about characters, locations, and episodes from the popular animated TV show "Rick and Morty."

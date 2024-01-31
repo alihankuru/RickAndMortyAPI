@@ -2,6 +2,9 @@
 
 ![Rick and Morty](https://github.com/alihankuru/RickAndMortyAPI/blob/master/API.png)
 
+## Example Response
+![Rick and Morty](https://github.com/alihankuru/RickAndMortyAPI/blob/master/API2.png)
+
 ## Overview
 
 RickAndMortyAPI is a simple Python library for interacting with the Rick and Morty API. It allows you to retrieve information about characters, locations, and episodes from the popular animated TV show "Rick and Morty."
